@@ -1,0 +1,11 @@
+# Kept in the repository, omitted from the GitHub Pages build.
+exclude:
+  - changelist.md
+  - cap.png
+  - cap.jpeg
+  - nc_assets
+  - icon/unity.png
+  - profile/Zhian_Li_Cat.jpg
+  - profile/Zhian_Li_Profile.PNG
+  - profile/Zhian_Li_Signature.jpg
+  - profile/Zhian_Li_V.jpg
