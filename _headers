@@ -1,0 +1,7 @@
+# Cloudflare Pages browser-cache rules. Portfolio media rarely changes.
+/graphics/*
+  Cache-Control: public, max-age=604800
+/icon/*
+  Cache-Control: public, max-age=604800
+/profile/*
+  Cache-Control: public, max-age=604800
